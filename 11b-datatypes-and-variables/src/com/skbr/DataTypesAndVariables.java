@@ -1,4 +1,4 @@
-package com.skbr.core.java.basic;
+package com.skbr;
 
 public class DataTypesAndVariables {
 
